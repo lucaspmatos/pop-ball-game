@@ -3,5 +3,5 @@ Exercício de criar bolas vermelhas na tela que desaparecem ao clique do mouse. 
 
 :eye: Visualize-o na íntegra em: https://lucaspmatos.github.io/pop-ball-game
 
-## Professor do projeto
+## Professor do exercício
 :man_teacher: [Bonieky Lacerda](https://github.com/bonieky)
